@@ -7,8 +7,8 @@
 `$ PrintFile [commands]`
 
 - _--file [string]_, _-f [string]_ - Path to file. [required parameter]
-- _--lines [int64]_, _-l [int64]_ - number of lines to print.
-- _--tail_, _-t_ - tail mode.
+- _--lines [int64]_, _-l [int64]_ - Number of lines to print.
+- _--tail_, _-t_ - Tail mode.
 - _--delimiter [string]_ _-d [string]_ - Character that will be accepted as the end of the line.
 - _--help_, _-h_ - Help menu.
 
